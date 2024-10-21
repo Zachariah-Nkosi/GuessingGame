@@ -1,0 +1,2 @@
+# GuessingGame
+  GUI-based guessing game in Python, *GuessingGame.py*, where players have 3 chances to guess a randomly generated number between 1 and 10. The interface includes a changeable picture, displays the user’s guesses, and provides feedback like "Too big," "Too small," or "Correct." The user can also customize the interface using comboboxes to select colors and pictures, and buttons to start a new game or exit
